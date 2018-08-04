@@ -2,7 +2,10 @@
 
 Created a web application that detects faces on images via the Clarifai API. This project takes advantage
 of React on the front-end side and Node and Express on the server side. This project also stores user information
-in a database made through PostgreSQL
+in a database made through PostgreSQL.
+
+NOTE: I have intentionally removed my PostgreSQL username, password and my API key from the project files. If you would like
+to run this project, please contact me so I can personally give you these credentials.
 
 In order to view this project you need `npm` and you must follow these steps:
 
