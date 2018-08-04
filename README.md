@@ -10,9 +10,15 @@ to run this project, please contact me so I can personally give you these creden
 In order to view this project you need `npm` and you must follow these steps:
 
 1. Clone the repository
+
 2. Open a terminal window to the facespot-backend-api folder
+
 3. Use `npm install` in the facespot-backend-api folder terminal
+
 4. Use `npm start` in the facespot-backend-api folder terminal
+
 5. Open another terminal window to the facespot folder
+
 6. Use `npm install` in the facespot folder terminal
+
 7. Use `npm start` in the facespot folder terminal
